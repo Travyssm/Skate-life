@@ -109,12 +109,3 @@ footer{
   margin: 3%
 }
 
-.bg-image{
-  background-image: url("images/pexels-rodnae-productions-form.jpg") no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  height: 100vh;
-}
-
