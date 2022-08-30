@@ -55,10 +55,17 @@ Skatelife is a site that is aimed at novice and experienced skaters alike, with 
 
   ![meetup_table](docs/skatelife_meetups.png)
 
+- __Meetup Button__
+
+  - This feature allows the user to go from the Home page directly to the Join Us page while providing important information in regard to park trails.
+
+  ![meetup_button](docs/skatelife_invitation.png)
+
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for SkateLife. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section includes links to the relevant social media sites for SkateLife. All of the links in the footer will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media and will supplement communication and gallery images.
+
 
   ![footer](docs/skatelife_footer.png)
 
@@ -77,3 +84,29 @@ Skatelife is a site that is aimed at novice and experienced skaters alike, with 
   - The gallery page has indicators so that users know how to navigate through the images and how many images are currently able to be viewed.
 
   ![gallery](docs/skatelife_gallery.png)
+
+- __Join Us__
+
+  - The join us page is intended for users to sign up with SkateLife so that they can start skating with the community asap.
+  - Users are given the fields of first name, last name and email address to enter alongside the selection of choosing whether they want to join the skate trail, roller disco or both. These fields are required so that information is not missing when signing up.
+  - The text entry fields are highlighted when hovered over so that users know where they are going to start typing.
+
+  ![join_us](docs/skatelife_signup.png)
+
+## Testing
+
+The testing for SkateLife was done using the Google Chrome Browser and their Chrome Developer Tools to make note of how the site responded when different screen sizes were used. Testing was also done on Microsoft edge and an iPhone XR using Safari to make sure the website renders correctly on different browsers and devices. No such errors were found.
+
+### User Stories Testing
+
+1. As a user visiting the site for the first time, I want to easily understand the main purpose of the site.
+    * The home page allows the user to see what the intention of the site is with the use of text, the hero image, the meetup table and the meet up button.
+    * The About page also touches on what Skatelife is and the benefits of using it.
+2. As a first time user, I want to be able to easily navigate throughout the site to find content.
+    * A user can navigate through the sites content easily using the navbar that can be accessed on every page. The logo also redirects to the home page.
+3. As a first time user, I want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+    * Links to the social media pages can be found in the footer of the site that is available on every page.
+4. As a returning user, I want to find information about skate locations and meeting times.
+    * This is readily available on the home page as the meetup table provides both the skate location and meeting times. This would be updated when new skate venues and times are added.
+5. As a frequent user, I want to check to see if there are any new gallery images of skating events.
+    * A user would be able to find all new images on the gallery page as well as by using the instagram link in the footer.
