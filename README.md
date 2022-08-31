@@ -110,3 +110,10 @@ The testing for SkateLife was done using the Google Chrome Browser and their Chr
     * This is readily available on the home page as the meetup table provides both the skate location and meeting times. This would be updated when new skate venues and times are added.
 5. As a frequent user, I want to check to see if there are any new gallery images of skating events.
     * A user would be able to find all new images on the gallery page as well as by using the instagram link in the footer.
+
+### Validator Testing 
+
+- HTML
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+- CSS
+  - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
