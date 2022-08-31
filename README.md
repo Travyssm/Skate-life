@@ -118,6 +118,57 @@ The testing for SkateLife was done using the Google Chrome Browser and their Chr
 - CSS
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
 
+### Known Bugs
+
+-  The index.html page has a horizontal side scroll which can cut off some wording when positioned on the right of the screen. This creates extra whitespace alongside the right length of the screen which isn't needed.
+
+## Deployment
+
+  The project was deployed to github pages using the following steps:
+  
+  1. On GitHub, navigate to your site's repository.
+  2. Under your repository name, click  *Settings*.
+  3. In the left sidebar, click Pages.
+  4. Under "GitHub Pages", use the *Branch* drop-down menu and select a publishing source.
+  5. Optionally, use the drop-down menu to select a folder for your publishing source.
+  6. Click Save.
+  7. Once refreshed and successfully deployed, your published site link should be at the top of "Github Pages"
+
+## Forking a GitHub Repository
+  1. Login to GitHub.
+  2. Locate your desired repository.
+  3. Locate the fork option in the top-right hand corner of the repository page.    
+  4. You will be asked where you want to fork it to.
+
+## Cloning a repository using the command line
+  1. On GitHub, navigate to the main page of the repository.
+  2. Above the list of files, click download code.
+  3. To clone the repository using HTTPS, under "Clone with HTTPS", click the copy icon. To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click *Use SSH*, then click the copy icon. To clone a repository using GitHub CLI, click Use *GitHub CLI*, then click the copy icon.
+  4. Open Terminal.
+  5. Change the current working directory to the location where you want the cloned directory.
+  6. Type ```git clone```, and then paste the URL you copied earlier.
+
+      ```
+      $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+      ```
+
+  7. Press Enter to create your local clone.
+
+      ```
+      $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+      ```
+      ```
+      \> Cloning into \`Spoon-Knife`\...
+
+      \> remote: Counting objects: 10, done.
+
+      \> remote: Compressing objects: 100% (8/8), done.
+
+      \> remove: Total 10 (delta 1), reused 10 (delta 1)
+
+      \> Unpacking objects: 100% (10/10), done.
+      ```
+
 ## Credits
   * ## Imagery
       * All imagery was found from RODNAE Productions on [Pexels](https://www.pexels.com/@rodnae-prod/)
