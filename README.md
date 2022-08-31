@@ -75,7 +75,7 @@ Skatelife is a site that is aimed at novice and experienced skaters alike, with 
   - The page also touches on who can join and the benefits of joining.
   - An image is displayed on bigger screen sizes of skaters hanging out together to highlight the interaction of skaters on the events.
 
-  ![about](docs/skatelife_about.png)
+  ![about](docs/skatelife_aboutt.png)
 
 - __Gallery__
 
@@ -117,3 +117,13 @@ The testing for SkateLife was done using the Google Chrome Browser and their Chr
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
 - CSS
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+
+## Credits
+  * ## Imagery
+      * All imagery was found from RODNAE Productions on [Pexels](https://www.pexels.com/@rodnae-prod/)
+      * The social media icons in the footer were accessible through [Font awesome](https://fontawesome.com/)
+      * Using a background image with bootstrap 5 was found via this [Youtube video](https://www.youtube.com/watch?v=VCVxtpjgO5Q)
+  * ## Code
+      * Bootstrap libraries was the base for the entire website in order to ensure it's responsivity.
+      * CI form tutorial was used to create form on Join Us page
+      
