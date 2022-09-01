@@ -172,7 +172,7 @@ The testing for SkateLife was done using the Google Chrome Browser and their Chr
 ## Credits
   * ## Imagery
       * All imagery was found from RODNAE Productions on [Pexels](https://www.pexels.com/@rodnae-prod/)
-      * The social media icons in the footer were accessible through [Font awesome](https://fontawesome.com/)
+      * The social media icons in the footer and the icon for the logo were accessible through [Font awesome](https://fontawesome.com/)
       * Using a background image with bootstrap 5 was found via this [Youtube video](https://www.youtube.com/watch?v=VCVxtpjgO5Q)
   * ## Code
       * Bootstrap libraries was the base for the entire website in order to ensure it's responsivity.
