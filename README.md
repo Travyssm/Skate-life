@@ -121,6 +121,7 @@ The testing for SkateLife was done using the Google Chrome Browser and their Chr
 ### Known Bugs
 
 -  The index.html page has a horizontal side scroll which can cut off some wording when positioned on the right of the screen. This creates extra whitespace alongside the right length of the screen which isn't needed.
+   - This was fixed by removing the div which was using the bootstrap grid layout the image was contained in.
 
 ## Deployment
 
