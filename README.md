@@ -2,6 +2,8 @@
 
 Skatelife is a site that is aimed at novice and experienced skaters alike, with the intent to keep people socialising and sharing their knowledge of skate tips and tricks while meeting up for regular skate sessions at local parks and venues. This is for areas in and near West Bromwich and Birmingham, UK. It is also aimed at those wanting to keep fit by going on regular skate trails and provides information on when and where to meet others to do so if desired.
 
+View the site [here!](https://travyssm.github.io/SkateLife/)
+
 ## User Experience (UX)
 
 -   ### User stories
