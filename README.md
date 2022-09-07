@@ -97,6 +97,8 @@ Skatelife is a site that is aimed at novice and experienced skaters alike, with 
 
 The testing for SkateLife was done using the Google Chrome Browser and their Chrome Developer Tools to make note of how the site responded when different screen sizes were used. Testing was also done on Microsoft edge and an iPhone XR using Safari to make sure the website renders correctly on different browsers and devices. No such errors were found.
 
+![about_mobile](docs/skatelife_about_m.png) ![gallery_tablet](docs/skatelife_gallery_m.png)
+
 ### User Stories Testing
 
 1. As a user visiting the site for the first time, I want to easily understand the main purpose of the site.
