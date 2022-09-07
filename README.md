@@ -119,8 +119,16 @@ The testing for SkateLife was done using the Google Chrome Browser and their Chr
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/)
+  ![result](docs/w3c_result.png)
 - CSS
   - No errors were found when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/)
+  ![css_result](docs/jigsaw_result.png)
+
+### Accessibility
+
+- This was checked using the free tool on this [site](https://web.dev/measure/)
+  
+  ![score](docs/lighthouse_score.png)
 
 ### Known Bugs
 
